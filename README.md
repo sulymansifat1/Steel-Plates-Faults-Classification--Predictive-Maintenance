@@ -1,7 +1,6 @@
 # Steel Plate Defect Classification for Smart Manufacturing
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/sulymansifat/steel-plates-faults-classification-pdm)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 
 A supervised machine learning classification project for Coursera course analyzing steel plate defects using UCI dataset (1,941 samples). Compared Logistic Regression, Random Forest & SVM algorithms. Random Forest achieved 80.7% accuracy for automated quality control. Demonstrates 64.6% cost savings potential in manufacturing.
@@ -156,3 +155,4 @@ The analysis includes 9 comprehensive visualizations:
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+
