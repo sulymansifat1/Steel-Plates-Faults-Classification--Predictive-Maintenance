@@ -1,4 +1,4 @@
-# Steel Plate Defect Classification for Smart Manufacturing
+# Steel Plate Defect Classification for Predictive-Maintenance
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-View%20Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/sulymansifat/steel-plates-faults-classification-pdm)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
@@ -155,4 +155,5 @@ The analysis includes 9 comprehensive visualizations:
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+
 
